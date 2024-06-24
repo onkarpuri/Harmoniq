@@ -24,9 +24,11 @@ Harmoniq Vibes is crafted to provide a smooth and intuitive music playing experi
 5. Interactive UI: Engaging and user-friendly interface with hover effects and smooth transitions.
 
 ## Screenshots
-![image](https://github.com/onkarpuri/Harmoniq/assets/120631295/7aa4a2d0-6fc6-4b86-b8ef-5ab532a17e4d)
+![image](https://github.com/onkarpuri/Harmoniq/assets/120631295/e0c96132-78de-4017-9f10-3b9e64691457)
 ![image](https://github.com/onkarpuri/Harmoniq/assets/120631295/61416ed6-f4c9-4edf-ad06-bb8a9a1bfd1a)
 ![image](https://github.com/onkarpuri/Harmoniq/assets/120631295/8905b7b9-982f-49fc-b151-49c87a2b9a5e)
 ![image](https://github.com/onkarpuri/Harmoniq/assets/120631295/f815a36a-d8fe-4031-9674-b765022bd1d4)
 ![image](https://github.com/onkarpuri/Harmoniq/assets/120631295/fce33548-f525-4d20-b3e9-28f8a06f5bbb)
+![WhatsApp Image 2024-06-24 at 16 06 40_3afdb9e5](https://github.com/onkarpuri/Harmoniq/assets/120631295/2a649203-bddd-4a1d-b14c-052081808721)
+
 
